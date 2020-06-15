@@ -1,0 +1,30 @@
+{
+    "status": "0",
+    "msg": "",
+    "result": [{
+            "productId": "001",
+            "productName": "音响",
+            "productPrice": 199,
+            "productImg": "1.jpg"
+        },
+        {
+            "productId": "002",
+            "productName": "耳机",
+            "productPrice": 299,
+            "productImg": "2.jpg"
+        },
+        {
+            "productId": "003",
+            "productName": "电脑",
+            "productPrice": 11199,
+            "productImg": "3.jpg"
+        },
+        {
+            "productId": "004",
+            "productName": "手机",
+            "productPrice": 2999,
+            "productImg": "4.jpg"
+        }
+
+    ]
+}
